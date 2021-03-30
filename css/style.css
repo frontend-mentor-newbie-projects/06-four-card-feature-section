@@ -22,7 +22,11 @@ li {
 }
 
 /* Base + Font styles */
-/* -------------------- */
+body {
+  font-family: Poppins;
+  background-color: #fafafa;
+}
+
 /* Mobile styles -- Starting point */
 /* -------------------- */
 /* Footer styles */
