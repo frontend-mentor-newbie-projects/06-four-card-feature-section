@@ -5,7 +5,18 @@
 // The foregoing remain constant throughout all styles specified for all screens.
 
 /* Global Varibables */
-/* -------------------- */
+$primary-1: hsl(0, 78%, 62%);
+$primary-2: hsl(180, 62%, 55%);
+$primary-3: hsl(34, 97%, 64%);
+$primary-4: hsl(212, 86%, 64%);
+
+$neutral-1: hsl(234, 12%, 34%);
+$neutral-2: hsl(229, 6%, 66%);
+$neutral-3: hsl(0, 0%, 98%);
+
+$body-font: 15px;
+$font-stack: Poppins;
+$font-weights: ("light": 200, "regular": 400, "bold": 600);
 
 /* Reset browser defaults */
 html {
